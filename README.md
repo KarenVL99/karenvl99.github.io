@@ -42,7 +42,7 @@ Credit Risk Analyst
 
 **Investment Portfolio**
 ![Finance](/assets/finance.jpeg)
--  The present document aims to present a portfolio under the modern portfolio theory, consisting of 3 risky assets (GRUMAB, LABB, and GCC) and a risk-free asset (BI CETES 210520). Subsequently, a comparison of the portfolio's risk level with the market portfolio risk is conducted. Finally, an investment strategy is analyzed.
+-  This project aims to present a portfolio under the modern portfolio theory, consisting of 3 risky assets (GRUMAB, LABB, and GCC) and a risk-free asset (BI CETES 210520). Subsequently, a comparison of the portfolio's risk level with the market portfolio risk is conducted. Finally, an investment strategy is analyzed.
   [PDF](https://drive.google.com/file/d/1rk02iwIVo7I5VZ-sOAc0tCATo5eyG1w2/view?usp=sharing)
   [Code](https://drive.google.com/file/d/1Iil0UQjteJIVQhJsqOVZ81NrOqNEsEcg/view?usp=share_link)
 
