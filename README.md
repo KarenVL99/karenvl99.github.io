@@ -1,10 +1,14 @@
 # Actuary
 
 ### Education 
-Bachelor’s degree, Actuarial Science 
-- Relevant Coursework: Statistical Inference, Non-Parametric Models, Risk
 
-Diploma, Data Science 
+Master of Science, Statistics, Financial Modelling
+- Relevant Coursework: Financial Markets, Stochastic Processes, Banking Analytics
+
+Bachelor’s degree, Actuarial Science 
+- Relevant Coursework: Statistical Inference, Non-Parametric Models, Risk Theory, Quantitative Methods in Finance
+
+Post-undergraduate diploma, Data Science 
 - Relevant Coursework: Supervised and Non-supervised Modelling, Introduction to Big Data
 
 Technical degree, Computing 
@@ -16,27 +20,40 @@ Technical degree, Accounting
   
 ### Work Experience
 Credit Risk Analyst
--	Developed strategic models based on scoring models to optimize the portfolio and effectively manage risk across various methodologies. 
--	Monitored loan portfolio using key performance indicators (KPIs) to proactively identify potential issues. 
--	Drafted reports on consumer credit findings to inform financial planning decisions.
+Designed and implemented strategic models based on scoring models to optimize the retail portfolio
+profitability, aligning risk management practices with business objectives
+• Monitored loan portfolio performance through KPIs (PSI, KS, LA) to identify shifts in the borrower proactively
+behavior and assess model effectiveness in detecting high-risk applicant profiles
+• Analyzed extensive databases to develop risk mitigation strategies for unexpected events (e.g., Otis
+Huracan), enhancing portfolio resilience
+• Prepared reports on consumer credit analysis to support informed financial planning and strategic decision-making
+in cooperation with the project manager
+• Conducted data extraction and analysis to identify key variables for score model development, ensuring
+optimal predictive accuracy and model performance
 
 
 ### Projects 
+**Estimating lookback options price: Monte Carlo Simulation, Binomial Lattice & Black Scholes**
+![CC](/assets/credit_card.jpeg)
+- The objective of this project is to find one or multiple models, both supervised and unsupervised, that allow us to predict the number of good customers (those who continue with the service) and bad customers (those who abandon the service) within the portfolio, to control the credit risk according to the risk level determined by the Portfolio Manager.
+  [PDF](https://drive.google.com/file/d/1j-cmg0DwZNtVXVtsf8A7Ij41mBEAY8Il/view?usp=sharing)
+  [Code](https://drive.google.com/file/d/14bzIaSIMtOY83zZp8e5AYTK67XohNwlj/view?usp=sharing)
+  
 **Churn Model Applied to Credit Card Customers**
 ![CC](/assets/credit_card.jpeg)
-- The objective of this project is to find one or multiple models, both supervised and unsupervised, that allow us to predict the quantity of good customers (those who continue with the service) and bad customers (those who abandon the service) within the portfolio, in order to control the credit risk according to the risk level determined by the Portfolio Manager.
+- The objective of this project is to find one or multiple models, both supervised and unsupervised, that allow us to predict the number of good customers (those who continue with the service) and bad customers (those who abandon the service) within the portfolio, to control the credit risk according to the risk level determined by the Portfolio Manager.
   [PDF](https://drive.google.com/file/d/1j-cmg0DwZNtVXVtsf8A7Ij41mBEAY8Il/view?usp=sharing)
   [Code](https://drive.google.com/file/d/14bzIaSIMtOY83zZp8e5AYTK67XohNwlj/view?usp=sharing)
 
 **Arabica Coffee Prices Prediction Model**
 ![Coffee](/assets/coffee.jpeg)
-- The goal of this project is to model the monthly prices of arabica coffee within the commodities market, using a Bayesian approach or a dynamic linear model.
+- This project aims to model the monthly prices of arabica coffee within the commodities market, using a Bayesian approach or a dynamic linear model.
   [PDF](https://drive.google.com/file/d/1JfjFcUG3Z6GnfUzbXteq3b8dikP68BKt/view?usp=share_link)
   [Code](https://drive.google.com/file/d/184f3Jvtp8uj7nMosJC1D76s3GRtXeTY8/view?usp=share_link)
 
   **Risk Theory**
   ![Risk](/assets/risk.png)
-  - The objective of this exam was to solve risk modeling problems aimed at controlling losses. Mathematical and programming skills were used for this purpose.
+  - This exam aimed to solve risk modeling problems aimed at controlling losses. Mathematical and programming skills were used for this purpose.
   [PDF](https://drive.google.com/file/d/1qvNGLfRZped0outJ_acsGoTcnQxzV0mu/view?usp=sharing)
   [Code](https://drive.google.com/file/d/19iQjfS48RG2zlFyyjyTH8TP23tZ_xgXD/view?usp=share_link)
 
