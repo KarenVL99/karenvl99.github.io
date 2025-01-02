@@ -34,10 +34,10 @@ optimal predictive accuracy and model performance
 
 ### Projects 
 **Estimating lookback options price: Monte Carlo Simulation, Binomial Lattice & Black Scholes**
-![CC](/assets/credit_card.jpeg)
-- The objective of this project is to find one or multiple models, both supervised and unsupervised, that allow us to predict the number of good customers (those who continue with the service) and bad customers (those who abandon the service) within the portfolio, to control the credit risk according to the risk level determined by the Portfolio Manager.
-  [PDF](https://drive.google.com/file/d/1j-cmg0DwZNtVXVtsf8A7Ij41mBEAY8Il/view?usp=sharing)
-  [Code](https://drive.google.com/file/d/14bzIaSIMtOY83zZp8e5AYTK67XohNwlj/view?usp=sharing)
+![CC](/assets/Geom_Brow_Mot.jpeg)
+- Lookback options are path-dependent options whose payoff depends on the minimum or maximum value of the underlying asset during the derivative’s lifetime. Numerous ways exist to estimate the price of this exotic option. This paper will present three methods: Monte Carlo Simulation, Binomial Lattice, and Black-Scholes.
+  [PDF](https://drive.google.com/file/d/1AVXiR1d-Sc3Qe-ITTNtslhcm-GW-Cofj/view?usp=sharing)
+  [Code](https://drive.google.com/file/d/1b_VyVHXpH5TKgvFB2iV12DPyNLSxCGEg/view?usp=sharing)
   
 **Churn Model Applied to Credit Card Customers**
 ![CC](/assets/credit_card.jpeg)
