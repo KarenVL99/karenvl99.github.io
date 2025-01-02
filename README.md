@@ -20,21 +20,15 @@ Technical degree, Accounting
   
 ### Work Experience
 Credit Risk Analyst
-Designed and implemented strategic models based on scoring models to optimize the retail portfolio
-profitability, aligning risk management practices with business objectives
-• Monitored loan portfolio performance through KPIs (PSI, KS, LA) to identify shifts in the borrower proactively
-behavior and assess model effectiveness in detecting high-risk applicant profiles
-• Analyzed extensive databases to develop risk mitigation strategies for unexpected events (e.g., Otis
-Huracan), enhancing portfolio resilience
-• Prepared reports on consumer credit analysis to support informed financial planning and strategic decision-making
-in cooperation with the project manager
-• Conducted data extraction and analysis to identify key variables for score model development, ensuring
-optimal predictive accuracy and model performance
+- Designed and implemented strategic models based on scoring models to optimize the retail portfolio profitability, aligning risk management practices with business objectives
+- Monitored loan portfolio performance through KPIs (PSI, KS, LA) to identify shifts in the borrower's proactively behavior and assess model effectiveness in detecting high-risk applicant profiles
+- Analyzed extensive databases to develop risk mitigation strategies for unexpected events (e.g., Otis Huracan), enhancing portfolio resilience
+- Prepared reports on consumer credit analysis to support informed financial planning and strategic decision-making in cooperation with the project manager
+- Conducted data extraction and analysis to identify key variables for score model development, ensuring optimal predictive accuracy and model performance
 
 
 ### Projects 
 **Estimating lookback options price: Monte Carlo Simulation, Binomial Lattice & Black Scholes**
-![CC](/assets/Geom_Brow_Mot.jpeg)
 - Lookback options are path-dependent options whose payoff depends on the minimum or maximum value of the underlying asset during the derivative’s lifetime. Numerous ways exist to estimate the price of this exotic option. This paper will present three methods: Monte Carlo Simulation, Binomial Lattice, and Black-Scholes.
   [PDF](https://drive.google.com/file/d/1AVXiR1d-Sc3Qe-ITTNtslhcm-GW-Cofj/view?usp=sharing)
   [Code](https://drive.google.com/file/d/1b_VyVHXpH5TKgvFB2iV12DPyNLSxCGEg/view?usp=sharing)
