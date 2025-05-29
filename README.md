@@ -34,7 +34,7 @@ Decision Score Model, Manager
   [Code](https://drive.google.com/file/d/1Pc5hq1a-HeIAuwmAtRHPej0PiFlRFcsE/view?usp=drive_link)
 
 **Bond Pricing**
-This document aims to assess the economic conditions in the U.S. and Canada that influence the fixed-income market, with a particular focus on how these factors affect the performance and valuation of our portfolio.
+- This document aims to assess the economic conditions in the U.S. and Canada that influence the fixed-income market, with a particular focus on how these factors affect the performance and valuation of our portfolio.
   [PDF](https://drive.google.com/file/d/18BwtmVZTp03E3b3EllcYr52xBLKtAdas/view?usp=sharing)
   [Code](https://drive.google.com/file/d/1c_-PwGYfoaX544YWoDBWEcorB-ByPglf/view?usp=drive_link)
 
